@@ -1,0 +1,25 @@
+{
+  "name": "lumapp",
+  "version": "1.0.0",
+  "description": "Does things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwjan123/lumapp.git"
+  },
+  "keywords": [
+    "things"
+  ],
+  "author": "Mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwjan123/lumapp/issues"
+  },
+  "homepage": "https://github.com/mwjan123/lumapp#readme",
+  "dependencies": {
+    "moment": "^2.29.2"
+  }
+}
