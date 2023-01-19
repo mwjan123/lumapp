@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/mwjan123/lumapp#readme",
   "dependencies": {
-    "moment": "^2.29.2"
+    "moment": "^2.29.4"
   }
 }
